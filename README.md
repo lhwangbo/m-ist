@@ -11,3 +11,19 @@ Our team developed both base and ensemble ML models using Scikit-learn (version 
 
 16th Jan 2022
 Lee Hwangbo, MD
+
+-----
+Python source files
+
+ist-base.py // Seven base ML methods are hyperparameter-tuned. The seven individual learners are exported into a file (MortalityOutcomeModels.joblib).
+ist-ensemble-stack.py // Stacking ensemble learner using an MLP as a learner. This is exported into a file (EnsenbleModel.joblib)
+ist-study-table-roc.py // Coded for our research article. The output to stdout contains comprehensive statistics regarding performance on both train and validation sets. 
+my_eval_functions.py // A collection of helper functions.
+
+Joblib files
+ClassifierNameList.joblib // Contains classifier names of seven base ML methods
+df_final.joblib // Contains data of both train and validation sets (we used random seed '123' for train-test-split)
+EnsembleModel.joblib // Final stacking ensemble learner
+MortalityOutcomeModels.joblib // Seven individual base learners
+
+-----
