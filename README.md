@@ -3,7 +3,7 @@ Machine-learning derived mortality prediction model for patients with acute isch
 
 Using seven base learner implementations of Scikit Learn, my colleagues and I have developed this stacking ensemble learning model to predict six-month mortality for ischaemic stroke patients. This work has not been peer-reviewed yet. And when the peer-review process is complete, I will change this README file accordingly.
 
-We have used four libraries, Scikit Learn, XGBoost, and Pandas along with their dependencies
+We have used three libraries, Scikit Learn, XGBoost, and Pandas along with their dependencies
 
 I will update this file as soon as the manuscript gets published.
 
