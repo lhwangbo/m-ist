@@ -11,7 +11,13 @@ Our team developed both base and ensemble ML models using Scikit-learn (version 
 
 16th Jan 2022
 Lee Hwangbo, MD
- 
+
+[UPDATED 30/11/2022]
+* Published on Sci Rep on 17/10/2022.
+* Hwangbo, L., Kang, Y.J., Kwon, H. et al. Stacking ensemble learning model to predict 6-month mortality in ischemic stroke patients. Sci Rep 12, 17389 (2022). https://doi.org/10.1038/s41598-022-22323-9
+
+
+
 -----
 Python source files
 
